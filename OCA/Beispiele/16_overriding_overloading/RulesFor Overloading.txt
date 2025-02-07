@@ -1,0 +1,5 @@
+1. Die Parameterliste MUSS anders sein.
+2. Der Rückgabetyp darf anders sein.
+3. Der Zugriffsmidifier darf enger oder weiter sein.
+
+4. Überladene Methoden haben einfach den gleichen Namen.

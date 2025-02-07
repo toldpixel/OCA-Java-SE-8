@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Algorithms"/>
+	<classpathentry kind="src" path="ASCIIART/src"/>
+	<classpathentry kind="src" path="binarySearch/src"/>
+	<classpathentry kind="src" path="ButtonListe/src"/>
+	<classpathentry kind="src" path="CaeserChiffre/src"/>
+	<classpathentry kind="src" path="DecimalToBinary/src"/>
+	<classpathentry kind="src" path="DistributedComputing/src"/>
+	<classpathentry kind="src" path="DreieckFlaeche/src"/>
+	<classpathentry kind="src" path="Hashing/src"/>
+	<classpathentry kind="src" path="HashTable/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="Kreis/src"/>
+	<classpathentry kind="src" path="linearsearch/src"/>
+	<classpathentry kind="src" path="Listen/src"/>
+	<classpathentry kind="src" path="MyThread/src"/>
+	<classpathentry kind="src" path="Nullcheck/src"/>
+	<classpathentry kind="src" path="poundtokilograms/src"/>
+	<classpathentry kind="src" path="QuickSort/src"/>
+	<classpathentry kind="src" path="Sieb/src"/>
+	<classpathentry kind="src" path="Sieb2/src"/>
+	<classpathentry kind="src" path="SmallConversation/src"/>
+	<classpathentry kind="src" path="stdinstdout/src"/>
+	<classpathentry kind="src" path="SubstitutionALG/src"/>
+	<classpathentry kind="src" path="Sum of Two Numbers/src"/>
+	<classpathentry kind="src" path="Summenformel/src"/>
+	<classpathentry kind="src" path="SwingPanel/src"/>
+	<classpathentry kind="src" path="TestP/src"/>
+	<classpathentry kind="src" path="TypesChallenge/src"/>
+	<classpathentry kind="src" path="Zinsprogram/src"/>
+	<classpathentry kind="output" path="ASCIIART/bin"/>
+</classpath>

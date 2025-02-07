@@ -1,0 +1,15 @@
+1. Es darf nur eine 'public' Klasse per Quellcodedatei geben.
+
+2. Kommentare dürfen überall stehen.
+
+3. Wenn eine Datei ein 'public' Klasse beinhaltet, MUSS die Datei genau so heissen wie die Klasse.
+
+4. Wenn die Klasse Teil eines packages ist, muss die pakage-Anweisung als erste nicht-Kommentar stehen.
+
+5. import-Anweisung müssen zwischen package-Anweisung und Klassendeklaration stehen. Wenn kein package-Anweisung geschriben ist, müssen imports am Anfang der Datei stehen.
+
+    package- und import-Anweisungen gelten für alle Klassen in der Datei.
+    
+6. Eine Datei kann mehr als eine nicht-'public' Klasse beinhalten.
+
+7. Der Name einer Datei ohne public Klassen muss keine Klassennamen entsprechen. Die Extension muss aber .java sein.

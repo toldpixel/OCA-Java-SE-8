@@ -1,0 +1,8 @@
+1.  Gleiche Parameterliste (Typen und Reihenfolge).
+2a. Der Rückgabetyp muss der gleiche oder eine Unterklasse sein.
+2b. Primitive Rückgabetypen müssen kompatibel sein.
+3.  Sichtbarkeit muss die gleiche oder größer sein.
+4.  Die überschriebe Operation kann nicht final sein.
+
+5.  Eine statische Methode kann nicht mit einem Objektoperation
+    überschrieben werden.
